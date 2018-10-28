@@ -1,0 +1,1 @@
+This is Bartek's first git project!
